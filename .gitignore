@@ -1,0 +1,29 @@
+# Byte-compiled / optimized / binary files.
+__pycache__/
+*.py[cod]
+*.*~
+.DS_Store
+
+# Tests / results / generated.
+cache/
+data/
+*.log
+
+# Distribution / packaging / build.
+htmlcov/
+poetry.lock
+.coverage
+.pytest_cache/
+*.egg-info/
+build/
+dist/
+sdist/
+
+# Code editors / environment.
+.venv/
+.vscode/
+.hypothesis/
+.ipynb*/
+
+# Documentation.
+docs/_build
